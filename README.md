@@ -1,7 +1,7 @@
 # Face Depth-Based Dynamic Text Display
 
 ## Overview
-This project uses OpenCV and MediaPipe to measure face depth from a webcam feed and dynamically adjust the size of displayed text based on how close or far your face is from the camera. The closer your face, the larger the text; the farther your face, the smaller the text.
+This project uses OpenCV and MediaPipe to measure face depth from a webcam feed and dynamically adjust the size of displayed text based on how close or far your face is from the camera. The closer your face, the smaller the text upto some range ,after it remains same font size; the farther your face, the larger the text,allowing you to see image in perfect.
 
 ---
 
